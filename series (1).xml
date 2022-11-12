@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Series>
+        <Serie>
+    <Nombre>Sex Education</Nombre>
+    <Año>2018</Año>
+    <Genero>Drama</Genero>
+    <temporadas>4</temporadas>
+        </Serie>
+        <Serie>
+<Nombre>Anne with E</Nombre>
+<Año>2019</Año>
+<Genero>Drama</Genero>
+<temporadas>5</temporadas>
+        </Serie>
+        <Serie>
+<Nombre>Lost </Nombre>
+<Año>2018</Año>
+<Genero>Misterio</Genero>
+<temporadas>5</temporadas>
+        </Serie>
+        <Serie>
+<Nombre>Big Mungh</Nombre>
+<Año>2020</Año>
+<Genero>Sex</Genero>
+<temporadas>4</temporadas>
+        </Serie>
+        <Serie>
+<Nombre>Breaking Bad</Nombre>
+<Año>2008</Año>
+<Genero>Suspenso</Genero>
+<temporadas>5</temporadas>
+        </Serie>
+
+        <SeriesSuspenso>
+        <Serie1>
+        <Nombre>Stranger Things</Nombre>
+        <Año>2016</Año>
+        <Genero>Suspenso</Genero>
+        <temporadas>4</temporadas>
+        </Serie1>
+        </SeriesSuspenso>
+</Series>
+

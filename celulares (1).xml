@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<celulares>
+        <cel>
+    <Nombre>Galaxy A52</Nombre>
+    <Año>2015</Año>
+    <color>Rojo</color>
+        </cel>
+        <cel>
+<Nombre>STE U8420</Nombre>
+<Año>2017</Año>
+<color>Negro platiado</color>
+        </cel>
+        <cel>
+<Nombre>Motorola G20</Nombre>
+<Año>2018</Año>
+<color>Dorado</color>
+        </cel>
+        <cel>
+<Nombre>Alcatel 20</Nombre>
+<Año>2016</Año>
+<color>Azul magenta</color>
+        </cel>
+        <cel>
+<Nombre>ZTE 2.3</Nombre>
+<Año>2017</Año>
+<color>Cafe</color>
+        </cel>
+</celulares>
